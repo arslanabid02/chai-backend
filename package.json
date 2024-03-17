@@ -1,0 +1,16 @@
+{
+  "name": "settingup-professional-backend-project",
+  "version": "1.0.0",
+  "description": "in this project i will learn how to setup professional backend project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "chai",
+    "backend",
+    "javascript"
+  ],
+  "author": "M. Arslan Abid",
+  "license": "ISC"
+}
